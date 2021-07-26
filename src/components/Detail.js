@@ -40,7 +40,8 @@ const Detail = (props) => {
           </Player>
           <Trailer>
             <img src="/images/play-icon-white.png" alt="" />
-            <span>Trailer</span>
+             <span><a href="https://www.youtube.com/watch?v=zOZR0TRnSU8" target="_blank">Trailer</a>
+             </span>
           </Trailer>
           <AddList>
             <span />
