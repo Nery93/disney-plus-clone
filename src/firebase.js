@@ -1,13 +1,13 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCn3qQmkuphgpPQX2BMjYY8mllrtPy4l_g",
-  authDomain: "kodish-acesso-gdrive-267611.firebaseapp.com",
-  projectId: "kodish-acesso-gdrive-267611",
-  storageBucket: "kodish-acesso-gdrive-267611.appspot.com",
-  messagingSenderId: "1007966695735",
-  appId: "1:1007966695735:web:3a511c4407122865ec6ab2",
-  measurementId: "G-XN757BPSLZ"
+  apiKey: "AIzaSyA9BnlX96fMf7XiUVCFRsoQzG8DGERJkeY",
+  authDomain: "disneyplus-clone-a33d5.firebaseapp.com",
+  projectId: "disneyplus-clone-a33d5",
+  storageBucket: "disneyplus-clone-a33d5.appspot.com",
+  messagingSenderId: "37918794208",
+  appId: "1:37918794208:web:dbe9842dfe1dda522a4b85",
+  measurementId: "G-DRVLJKWRWG"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
